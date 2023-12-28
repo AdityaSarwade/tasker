@@ -1,16 +1,24 @@
 # tasker
 
-A new Flutter project.
+The Minimalistic To-Do App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Tasker is a light-weight and minimal To-Do App to keep track of your everyday tasks.
 
-A few resources to get you started if this is your first Flutter project:
+## How To Use
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Click on the '+' button to add a new task
+- Click on a task to mark it as done or pending
+- Long Press on a task to delete.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+Main UI:
+<img src="assets/images/mainui.jpg" alt="Main UI" width=100 />
+
+Add New Task:
+<img src="assets/images/addnewtask.jpg" alt="Add New Task" width=100 />
+
+After New Task:
+<img src="assets/images/afternewtask.jpg" alt="afternewtask" width=100 />
